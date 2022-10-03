@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P8DWFBf4Iggz93MkS5OMIihWhd42IyJdIDZsWpbP+oGTOmnmjEZ1N2B00UV7r7vUDP2nkP8icvDYHVjPUKl9hA==",
+  "dgSpecHash": "xlVsXzw/2QohhGZCMIXe+4Hrd59wFI3v6fpLLNFw3kvg4iHucBSlhxRCWGcCM+579xxyM6+9tWQONMiRyvI+0A==",
   "success": true,
-  "projectFilePath": "/Users/tylersatter/Documents/GitHub/bowlingteammanager/ScoringService/ScoringService.csproj",
+  "projectFilePath": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\ScoringService\\ScoringService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

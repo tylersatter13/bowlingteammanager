@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/tylersatter/.nuget/packages/": {}
+    "C:\\Users\\tylersatter\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tylersatter/Documents/GitHub/bowlingteammanager/ScoringService/ScoringService.csproj",
+      "projectUniqueName": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\ScoringService\\ScoringService.csproj",
       "projectName": "ScoringService",
-      "projectPath": "/Users/tylersatter/Documents/GitHub/bowlingteammanager/ScoringService/ScoringService.csproj",
-      "packagesPath": "/Users/tylersatter/.nuget/packages/",
-      "outputPath": "/Users/tylersatter/Documents/GitHub/bowlingteammanager/ScoringService/obj/",
+      "projectPath": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\ScoringService\\ScoringService.csproj",
+      "packagesPath": "C:\\Users\\tylersatter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\ScoringService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tylersatter/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\tylersatter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
       }
     }
   }

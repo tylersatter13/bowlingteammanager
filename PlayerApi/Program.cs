@@ -1,6 +1,7 @@
 using PlayerRepository;
 using PlayerRepository.Context;
 using PlayerRepository.Interfaces;
+using Azure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 

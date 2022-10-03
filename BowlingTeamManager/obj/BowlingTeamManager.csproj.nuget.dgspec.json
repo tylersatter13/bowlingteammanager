@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tylersatter/Documents/GitHub/bowlingteammanager/BowlingTeamManager/BowlingTeamManager.csproj": {}
+    "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\BowlingTeamManager\\BowlingTeamManager.csproj": {}
   },
   "projects": {
-    "/Users/tylersatter/Documents/GitHub/bowlingteammanager/BowlingTeamManager/BowlingTeamManager.csproj": {
+    "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\BowlingTeamManager\\BowlingTeamManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tylersatter/Documents/GitHub/bowlingteammanager/BowlingTeamManager/BowlingTeamManager.csproj",
+        "projectUniqueName": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\BowlingTeamManager\\BowlingTeamManager.csproj",
         "projectName": "BowlingTeamManager",
-        "projectPath": "/Users/tylersatter/Documents/GitHub/bowlingteammanager/BowlingTeamManager/BowlingTeamManager.csproj",
-        "packagesPath": "/Users/tylersatter/.nuget/packages/",
-        "outputPath": "/Users/tylersatter/Documents/GitHub/bowlingteammanager/BowlingTeamManager/obj/",
+        "projectPath": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\BowlingTeamManager\\BowlingTeamManager.csproj",
+        "packagesPath": "C:\\Users\\tylersatter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\BowlingTeamManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tylersatter/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\tylersatter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
         }
       }
     }
