@@ -1,0 +1,14 @@
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/bin/Debug/net6.0/PlayerRepository.deps.json
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/bin/Debug/net6.0/PlayerRepository.runtimeconfig.json
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/bin/Debug/net6.0/PlayerRepository.dll
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/bin/Debug/net6.0/PlayerRepository.pdb
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.csproj.AssemblyReference.cache
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.AssemblyInfoInputs.cache
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.AssemblyInfo.cs
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.csproj.CoreCompileInputs.cache
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.dll
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/refint/PlayerRepository.dll
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.pdb
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.genruntimeconfig.cache
+/Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/ref/PlayerRepository.dll
