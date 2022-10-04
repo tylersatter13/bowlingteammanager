@@ -5,10 +5,18 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+        <UserSecretsId>3de7a385-1cf6-40c7-87c7-f64969c5c43f</UserSecretsId>
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Azure.Identity" Version="1.6.0" />
+        <PackageReference Include="Microsoft.Azure.AppConfiguration.AspNetCore" Version="5.0.0" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PracticeRepository\PracticeRepository.csproj" />
+      <ProjectReference Include="..\PracticeService\PracticeServices.csproj" />
     </ItemGroup>
 
 </Project>

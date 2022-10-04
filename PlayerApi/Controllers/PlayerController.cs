@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using PlayerRepository.Interfaces;
 using PlayerRepository.Models;
+using PlayerServices.Interfaces;
 
 namespace PlayerApi.Controllers;
 [ApiController]
@@ -8,8 +9,8 @@ namespace PlayerApi.Controllers;
 public class PlayerController:ControllerBase
 {
    private readonly ILogger<PlayerController> _logger;
-   private readonly IPlayerRequestRepository _service;
-   public PlayerController(ILogger<PlayerController> logger,  IPlayerRequestRepository service)
+   private readonly IPlayersService _service;
+   public PlayerController(ILogger<PlayerController> logger,  IPlayersService service)
    {
       _logger = logger;
       _service = service;

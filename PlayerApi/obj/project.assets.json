@@ -3610,6 +3610,19 @@
         "runtime": {
           "bin/placeholder/PlayerRepository.dll": {}
         }
+      },
+      "PlayerServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PlayerRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PlayerServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlayerServices.dll": {}
+        }
       }
     }
   },
@@ -9880,11 +9893,17 @@
       "type": "project",
       "path": "../PlayerRepository/PlayerRepository.csproj",
       "msbuildProject": "../PlayerRepository/PlayerRepository.csproj"
+    },
+    "PlayerServices/1.0.0": {
+      "type": "project",
+      "path": "../PlayerService/PlayerServices.csproj",
+      "msbuildProject": "../PlayerService/PlayerServices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "PlayerRepository >= 1.0.0",
+      "PlayerServices >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -9917,6 +9936,9 @@
           "projectReferences": {
             "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\PlayerRepository\\PlayerRepository.csproj": {
               "projectPath": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\PlayerRepository\\PlayerRepository.csproj"
+            },
+            "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\PlayerService\\PlayerServices.csproj": {
+              "projectPath": "C:\\Users\\tylersatter\\Source\\Repos\\tylersatter13\\bowlingteammanager\\PlayerService\\PlayerServices.csproj"
             }
           }
         }

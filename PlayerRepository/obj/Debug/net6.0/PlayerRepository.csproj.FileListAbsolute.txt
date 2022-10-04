@@ -12,3 +12,17 @@
 /Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.pdb
 /Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/PlayerRepository.genruntimeconfig.cache
 /Users/tylersatter/RiderProjects/BowlingTeamManager/PlayerRepository/obj/Debug/net6.0/ref/PlayerRepository.dll
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\bin\Debug\net6.0\PlayerRepository.deps.json
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\bin\Debug\net6.0\PlayerRepository.runtimeconfig.json
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\bin\Debug\net6.0\PlayerRepository.dll
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\bin\Debug\net6.0\PlayerRepository.pdb
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\PlayerRepository.csproj.AssemblyReference.cache
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\PlayerRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\PlayerRepository.AssemblyInfoInputs.cache
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\PlayerRepository.AssemblyInfo.cs
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\PlayerRepository.csproj.CoreCompileInputs.cache
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\PlayerRepository.dll
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\refint\PlayerRepository.dll
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\PlayerRepository.pdb
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\PlayerRepository.genruntimeconfig.cache
+C:\Users\tylersatter\Source\Repos\tylersatter13\bowlingteammanager\PlayerRepository\obj\Debug\net6.0\ref\PlayerRepository.dll

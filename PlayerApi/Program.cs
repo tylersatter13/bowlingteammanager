@@ -1,7 +1,9 @@
 using PlayerRepository;
+using PlayerServices.Services;
 using PlayerRepository.Context;
 using PlayerRepository.Interfaces;
 using Azure.Identity;
+using PlayerServices.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +14,12 @@ builder.Host.ConfigureAppConfiguration(builder =>
         //Connect to your App Config Store using the connection string
         builder.AddAzureAppConfiguration(options =>
         {
-            options.Connect(connectionString)
-                .Select("ConnectionString");
+       
+            
+           options.Connect(new Uri("https://propertymanagementconfig.azconfig.io"), new DefaultAzureCredential()).UseFeatureFlags();
+            
+           // options.Connect(connectionString)
+            //    .Select("ConnectionString");
         
         });
     })
@@ -30,6 +36,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IPlayerRequestRepository, PlayerRequestRepository>();
 builder.Services.AddScoped<PlayerRepositoryContext>();
+builder.Services.AddScoped<IPlayersService, PlayerService>();
 
 var app = builder.Build();
 

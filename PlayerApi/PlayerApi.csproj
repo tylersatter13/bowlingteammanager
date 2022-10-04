@@ -18,6 +18,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\PlayerRepository\PlayerRepository.csproj" />
+      <ProjectReference Include="..\PlayerService\PlayerServices.csproj" />
     </ItemGroup>
 
 </Project>

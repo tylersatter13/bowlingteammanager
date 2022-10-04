@@ -1,24 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingTeamManager", "BowlingTeamManager\BowlingTeamManager.csproj", "{F2A313B4-0690-4860-904C-FC3EEF1697B5}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingTeamManager", "BowlingTeamManager\BowlingTeamManager.csproj", "{F2A313B4-0690-4860-904C-FC3EEF1697B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerApi", "PlayerApi\PlayerApi.csproj", "{3ADFC32E-FB0C-44CC-9A6F-5360E4F603C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerApi", "PlayerApi\PlayerApi.csproj", "{3ADFC32E-FB0C-44CC-9A6F-5360E4F603C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeApi", "PracticeApi\PracticeApi.csproj", "{3FEF97A2-5E85-4D36-A1AF-887EFF466742}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeApi", "PracticeApi\PracticeApi.csproj", "{3FEF97A2-5E85-4D36-A1AF-887EFF466742}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoringApi", "ScoringApi\ScoringApi.csproj", "{859A8448-32F8-4E69-8001-25B049E7E1F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScoringApi", "ScoringApi\ScoringApi.csproj", "{859A8448-32F8-4E69-8001-25B049E7E1F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerService", "PlayerService\PlayerService.csproj", "{27955FBE-1727-498C-A152-1B211EF8422A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerServices", "PlayerService\PlayerServices.csproj", "{27955FBE-1727-498C-A152-1B211EF8422A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerRepository", "PlayerRepository\PlayerRepository.csproj", "{8965A8F8-D31C-446F-82C1-8AE0616C51D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayerRepository", "PlayerRepository\PlayerRepository.csproj", "{8965A8F8-D31C-446F-82C1-8AE0616C51D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoringRepository", "ScoringRepository\ScoringRepository.csproj", "{8614F309-A29A-482B-81F2-27FA8024C0D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScoringRepository", "ScoringRepository\ScoringRepository.csproj", "{8614F309-A29A-482B-81F2-27FA8024C0D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeRepository", "PracticeRepository\PracticeRepository.csproj", "{C26010DD-1A57-4F11-8A57-1CB50647056F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeRepository", "PracticeRepository\PracticeRepository.csproj", "{C26010DD-1A57-4F11-8A57-1CB50647056F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeService", "PracticeService\PracticeService.csproj", "{1E46DB52-3FD8-4722-9F6A-97EEB01E4305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeServices", "PracticeService\PracticeServices.csproj", "{1E46DB52-3FD8-4722-9F6A-97EEB01E4305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoringService", "ScoringService\ScoringService.csproj", "{954ECD58-BA99-42C1-926D-8153923B15BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScoringServices", "ScoringService\ScoringServices.csproj", "{954ECD58-BA99-42C1-926D-8153923B15BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -66,5 +69,11 @@ Global
 		{954ECD58-BA99-42C1-926D-8153923B15BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954ECD58-BA99-42C1-926D-8153923B15BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954ECD58-BA99-42C1-926D-8153923B15BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E28C8748-9727-4C05-A213-226068337123}
 	EndGlobalSection
 EndGlobal
